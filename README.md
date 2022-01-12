@@ -15,3 +15,5 @@ A GitHub repository that serves 2 purposes:
 3. Create 5 milestones, named week 1 through to week 5, and group the relevant issue to each milestone.
 
 4. Create a project board named block 4. Put the issues in appropriate columns.
+
+Trying to add something new!
